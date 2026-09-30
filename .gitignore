@@ -1,0 +1,12 @@
+# 公开发布仓：白名单式——只允许抽取出来的成品，源码与内部文件都不在这里
+*
+!.gitignore
+!*/
+!/.gitignore
+!/assets/logo.png
+!/CHANGELOG.md
+!/DSH-Pilot-win-x64-v0.37.13.zip
+!/DSH-Pilot-win-x64-v0.37.13.zip.sha256
+!/LICENSE
+!/README.md
+!/VERSION
